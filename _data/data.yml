@@ -77,7 +77,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      (Click on project names to see more!)
+      Click on project names to see more!
     assignments:
       - title: Credit Risk Modelling
         link: "https://github.com/10ken/Credit-Risk-Modeling"
