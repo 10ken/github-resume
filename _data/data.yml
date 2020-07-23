@@ -63,81 +63,44 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-#     - degree: BSc in Applied Mathematics
-#       university: Bristol University
-#       time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Customer Service Representative
+      time: 2016 - Present
+      company: CIBC, Aurora
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Utilizing my knowledge of financial service products and banking procedures, I
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          
 projects:
     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: >
+      (Click on project names to see more!)
     assignments:
       - title: Credit Risk Modelling
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://github.com/10ken/Credit-Risk-Modeling"
+        tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and improved risk by 15.1%."
 
       - title: Data Analyst EDA
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
+        tagline: "A exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles."
 
-      - title: Hotel Booking Cancellations
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: House Evaluation Prediction
+     - title: House Evaluation Prediction
         link: "https://github.com/10ken/Housing-Evaluation-Prediction/blob/master/PROJECT-C67--1-.pdf"
-        tagline: "A detailed statistical analysis minimizing multicollinearity, variance inflation factor, and mean squared prediction error achieving a prediction accuracy 95%."
+        tagline: "A detailed statistical analysis reducing multicollinearity, variance inflation factor, and mean squared prediction error achieving a prediction accuracy 95%."
+     
+     - title: Hotel Booking Cancellations
+        link: "https://github.com/10ken/Hotel-Booking-Cancellations/blob/master/hotel%20booking%20churn.ipynb"
+        tagline: "Performed data cleaning, dimension reduction, and data mining to analyze the rate of customer churn. The logistic classifier had out performed the Support Vector Machine and Naive Bayes classifier."
 
-      - title: Terrorism Rating Model
+      - title: Neueral Networks
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A feed forward neural network and convolutional neural network for that classifies images of animals, vechicles, and numbers."
+      
+      - title: Terrorism Rating Model
+        link: "https://github.com/10ken/Terrorism-Rating-Model/blob/master/round%202.R"
+        tagline: "Cleaned and analyzed big data on Toronto crime data to identify areas that had the most amount of crime and which months of the year requires more police officers to maintain a lower crime rate. A decision tree achieved an 80% accuracy."
 
 # publications:
 #     title: Publications
