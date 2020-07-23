@@ -45,10 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I hold an HBSc in Mathematics and Statistics from the University of Toronto and a Big Data Certificate from York University. 
+      I hold an HBSc in Mathematics and Statistics from the University of Toronto, a Big Data Certificate from York University,
+        and a SAS BAse Programmer Certificate from SAS Institute.
       I am interested in the applications of statistics, machine learning, and performing data analysis to produce data driven solutions.
-      I am proficient in programming in Python and R and can also making queries with SAS and SQL. 
-      I have strong a understanding data mining techniques such as KNN+, logistic regression, gradient boosted trees, and building neural networks.
+      I am proficient in programming in Python and R and to make queries with SAS and SQL. 
+      I have strong a understanding data mining techniques classification, regression, and deep learning.
       
 education:
     - degree: Honours Bachelor of Science in Mathematics and Statistics
