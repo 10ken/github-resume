@@ -123,16 +123,16 @@ skills:
 
     toolset:
       - name: Python & R
-        level: 90%
+        level: 95%
 
       - name: SAS & SQL
-        level: 80%
+        level: 82%
 
       - name: MS Excel
-        level: 70%
+        level: 74%
       
       - name: Tableau
-        level: 60%
+        level: 65%
 
       - name: HTML5 & CSS
         level: 50%
