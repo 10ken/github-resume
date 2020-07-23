@@ -87,11 +87,11 @@ projects:
         link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
         tagline: "A exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles."
 
-     - title: House Evaluation Prediction
+      - title: House Evaluation Prediction
         link: "https://github.com/10ken/Housing-Evaluation-Prediction/blob/master/PROJECT-C67--1-.pdf"
         tagline: "A detailed statistical analysis reducing multicollinearity, variance inflation factor, and mean squared prediction error achieving a prediction accuracy 95%."
      
-     - title: Hotel Booking Cancellations
+      - title: Hotel Booking Cancellations
         link: "https://github.com/10ken/Hotel-Booking-Cancellations/blob/master/hotel%20booking%20churn.ipynb"
         tagline: "Performed data cleaning, dimension reduction, and data mining to analyze the rate of customer churn. The logistic classifier had out performed the Support Vector Machine and Naive Bayes classifier."
 
