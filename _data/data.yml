@@ -132,7 +132,7 @@ projects:
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: House Evaluation Prediction
-        link: "github.com/10ken/Housing-Evaluation-Prediction/blob/master/PROJECT-C67--1-.pdf"
+        link: "https://github.com/10ken/Housing-Evaluation-Prediction/blob/master/PROJECT-C67--1-.pdf"
         tagline: "A detailed statistical analysis minimizing multicollinearity, variance inflation factor, and mean squared prediction error achieving a prediction accuracy 95%."
 
       - title: Terrorism Rating Model
