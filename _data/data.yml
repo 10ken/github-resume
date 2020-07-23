@@ -69,8 +69,7 @@ experiences:
       time: 2016 - Present
       company: CIBC, Aurora
       details: |
-        Utilizing my knowledge of financial service products and banking 
-        procedures, I
+        Utilizing my knowledge of financial service products and banking procedures, I
           - Bullet point
           - Bullet point
           
@@ -84,7 +83,7 @@ projects:
         tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and improved risk by 15.1%."
 
       - title: Data Analyst EDA
-        link: "github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
+        link: "www.github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
         tagline: "A exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles."
 
       - title: House Evaluation Prediction
@@ -96,7 +95,7 @@ projects:
         tagline: "Performed data cleaning, dimension reduction, and data mining to analyze the rate of customer churn. The logistic classifier had out performed the Support Vector Machine and Naive Bayes classifier."
 
       - title: Neueral Networks
-        link: "#"
+        link: "https://github.com/10ken/Neural-Nets"
         tagline: "A feed forward neural network and convolutional neural network for that classifies images of animals, vechicles, and numbers."
       
       - title: Terrorism Rating Model
