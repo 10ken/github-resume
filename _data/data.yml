@@ -45,32 +45,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I hold an HBSc in Mathematics and Statistics from the University of Toronto and a Big Data Certificate from York University. 
+      I am interested in the applications of statistics, machine learning, and performing data analysis to produce data driven solutions.
+      
 education:
     - degree: Honours Bachelor of Science in Mathematics and Statistics
       university: University of Toronto
       time: 2015 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 
 experiences:
     - role: Customer Service Representative
       time: 2016 - Present
       company: CIBC, Aurora
       details: |
-        Utilizing my knowledge of financial service products and banking procedures, I
-          - Bullet point
+        Utilized my knowledge of financial service products, 
+          - Demonstrated cross-functional team collaboration ensuring the timely completion of branch ad-hoc requests and cases.
           - Bullet point
           
 projects:
@@ -79,12 +70,12 @@ projects:
       Click on project names to see more!
     assignments:
       - title: Credit Risk Modelling
-        link: "github.com/10ken/Credit-Risk-Modeling"
-        tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and improved risk by 15.1%."
+        link: "https://github.com/10ken/Credit-Risk-Modeling"
+        tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and minimized risk by 15.1%."
 
       - title: Data Analyst EDA
-        link: "www.github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
-        tagline: "A exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles."
+        link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
+        tagline: "An exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles in different areas."
 
       - title: House Evaluation Prediction
         link: "https://github.com/10ken/Housing-Evaluation-Prediction/blob/master/PROJECT-C67--1-.pdf"
@@ -96,7 +87,7 @@ projects:
 
       - title: Neueral Networks
         link: "https://github.com/10ken/Neural-Nets"
-        tagline: "A feed forward neural network and convolutional neural network for that classifies images of animals, vechicles, and numbers."
+        tagline: "A feed forward neural network and convolutional neural network for that classifies images of animals, vehicles, and numbers."
       
       - title: Terrorism Rating Model
         link: "https://github.com/10ken/Terrorism-Rating-Model/blob/master/round%202.R"
