@@ -80,11 +80,11 @@ projects:
       Click on project names to see more!
     assignments:
       - title: Credit Risk Modelling
-        link: "https://github.com/10ken/Credit-Risk-Modeling"
+        link: "github.com/10ken/Credit-Risk-Modeling"
         tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and improved risk by 15.1%."
 
       - title: Data Analyst EDA
-        link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
+        link: "github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
         tagline: "A exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles."
 
       - title: House Evaluation Prediction
