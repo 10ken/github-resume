@@ -91,7 +91,7 @@ projects:
         link: "https://github.com/10ken/Hotel-Booking-Cancellations/blob/master/hotel%20booking%20churn.ipynb"
         tagline: "Performed data cleaning, dimension reduction, and data mining to analyze the rate of customer churn. The logistic classifier had out performed the Support Vector Machine and Naive Bayes classifier."
 
-      - title: Neueral Networks
+      - title: Neural Networks
         link: "https://github.com/10ken/Neural-Nets"
         tagline: "A feed forward neural network and convolutional neural network for that classifies images of animals, vehicles, and numbers."
       
@@ -126,21 +126,21 @@ skills:
 
     toolset:
       - name: Python & R
-        level: 95%
+        level: 100%
 
       - name: SAS & SQL
-        level: 82%
+        level: 84%
 
       - name: MS Excel
-        level: 74%
+        level: 76%
       
       - name: Tableau
-        level: 65%
+        level: 68%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 52%
 
       
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
