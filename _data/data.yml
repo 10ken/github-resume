@@ -49,7 +49,7 @@ career-profile:
         and a SAS BAse Programmer Certificate from SAS Institute.
       I am interested in the applications of statistics, machine learning, and performing data analysis to produce data driven solutions.
       I am proficient in programming in Python and R and to make queries with SAS and SQL. 
-      I have a strong understanding of data mining techniques classification, regression, and deep learning.
+      I have a strong understanding of data mining techniques in classification, regression, and deep learning.
       
 education:
     - degree: Honours Bachelor of Science in Mathematics and Statistics
@@ -79,9 +79,9 @@ projects:
         link: "https://github.com/10ken/Credit-Risk-Modeling"
         tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and minimized risk by 15.1%. This model will reduce the number of defaulted loans protecting both the lender and borrower"
 
-      title: MySQL Database ecommerce queries
+      title: MySQL Database eCommerce queries
         link: "https://github.com/10ken/ecommer-MySQL-db"
-        tagline: "A series o
+        tagline: "SQL queries that sorted and grouped ecommerce sales by countries and customers by purchases. A variety of SQL commends and functions were used in the process exploring the imported data, including SELECT, GROUP BY, ORDER BY, LEFT JOIN, AVG(), and SUM()."
         
       - title: Data Analyst EDA
         link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
