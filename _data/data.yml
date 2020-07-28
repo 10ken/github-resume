@@ -97,11 +97,13 @@ projects:
 
       - title: Neural Networks
         link: "https://github.com/10ken/Neural-Nets"
-        tagline: "A feed forward neural network and convolutional neural network for that classifies images of animals, vehicles, and numbers."
+        tagline: "A feed forward neural network and convolutional neural network which classifies images of animals, vehicles, and numbers with PyTorch."
       
       - title: Terrorism Rating Model
         link: "https://github.com/10ken/Terrorism-Rating-Model/blob/master/round%202.R"
-        tagline: "Cleaned and analyzed big data on Toronto crime data to identify areas where crime was the most frequent and which months of the year required more police officers to maintain a lower crime rate. A decision tree achieved an 80% accuracy."
+        tagline: "Cleaned and analyzed big data on global terrorism data. Feature engineering was performed for improved exploratory analysis and data mining. Clusters analysis identified common features for high probabilities of terrorism."
+        
+        
 
 # publications:
 #     title: Publications
