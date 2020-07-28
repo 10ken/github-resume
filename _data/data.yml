@@ -79,7 +79,7 @@ projects:
         link: "https://github.com/10ken/Credit-Risk-Modeling"
         tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and minimized risk by 15.1%. This model will reduce the number of defaulted loans protecting both the lender and borrower"
 
-      title: MySQL Database eCommerce queries
+      - title: MySQL Database eCommerce queries
         link: "https://github.com/10ken/ecommer-MySQL-db"
         tagline: "SQL queries that sorted and grouped ecommerce sales by countries and customers by purchases. A variety of SQL commends and functions were used in the process exploring the imported data, including SELECT, GROUP BY, ORDER BY, LEFT JOIN, AVG(), and SUM()."
         
