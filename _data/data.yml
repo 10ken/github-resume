@@ -77,8 +77,12 @@ projects:
     assignments:
       - title: Credit Risk Modelling
         link: "https://github.com/10ken/Credit-Risk-Modeling"
-        tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and minimized risk by 15.1%."
+        tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and minimized risk by 15.1%. This model will reduce the number of defaulted loans protecting both the lender and borrower"
 
+      title: MySQL Database ecommerce queries
+        link: "https://github.com/10ken/ecommer-MySQL-db"
+        tagline: "A series o
+        
       - title: Data Analyst EDA
         link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
         tagline: "An exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles in different areas."
