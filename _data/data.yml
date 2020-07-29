@@ -80,31 +80,31 @@ projects:
     intro: >
       Click on project names to see more!
     assignments:
-      - title: Credit Risk Modelling
+      - title: 1. Credit Risk Modelling
         link: "https://github.com/10ken/Credit-Risk-Modeling"
         tagline: "A credit risk assessment with data mining techniques to reduce default rates. The gradient boosted tree classifier performed the best with a threshold of 60%, achieving an accuracy of 93.3% and minimized risk by 15.1%. This model will reduce the number of defaulted loans protecting both the lender and borrower"
 
-      - title: MySQL Database eCommerce queries
+      - title: 2. MySQL Database eCommerce queries
         link: "https://github.com/10ken/ecommer-MySQL-db"
         tagline: "SQL queries that summarized ecommerce sales data by country andcustomers. SQL commands and functions used include SELECT, GROUP BY, ORDER BY, LEFT JOIN, AVG(), and SUM()."
         
-      - title: Data Analyst EDA
+      - title: 3. Data Analyst EDA
         link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
         tagline: "An exploratory data analysis of recent data analyst job postings in 2020 in the United States to better understand data analyst roles in different areas."
 
-      - title: House Evaluation Prediction
+      - title: 4. House Evaluation Prediction
         link: "https://github.com/10ken/Housing-Evaluation-Prediction/blob/master/PROJECT-C67--1-.pdf"
         tagline: "A detailed statistical analysis reducing multicollinearity, variance inflation factor, and mean squared prediction error achieving a prediction accuracy 95%."
      
-      - title: Hotel Booking Cancellations
+      - title: 5. Hotel Booking Cancellations
         link: "https://github.com/10ken/Hotel-Booking-Cancellations/blob/master/hotel%20booking%20churn.ipynb"
         tagline: "Performed data cleaning, dimension reduction, and data mining to analyze the rate of customer churn. The logistic classifier had out performed the Support Vector Machine and Naive Bayes classifier."
 
-      - title: Neural Networks
+      - title: 6. Neural Networks
         link: "https://github.com/10ken/Neural-Nets"
         tagline: "A feed forward neural network and convolutional neural network which classifies images of animals, vehicles, and numbers with PyTorch."
       
-      - title: Terrorism Rating Model
+      - title: 7. Terrorism Rating Model
         link: "https://github.com/10ken/Terrorism-Rating-Model/blob/master/round%202.R"
         tagline: "Cleaned and analyzed big data on global terrorism data. Feature engineering was performed for improved exploratory analysis and data mining. Clusters analysis identified common features for high probabilities of terrorism."
         
