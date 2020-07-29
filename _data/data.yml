@@ -68,6 +68,11 @@ experiences:
          - Ensured client security, confidentiality, and the avoidance of fraudulent activities with AML, ATF, and  KYC procedures, minimizing the exposure to risk and losses to CIBC and clients.
          - Ensured the accuracy and completeness of client documents.
          - Demonstrated cross-functional team collaboration ensuring the timely completion of branch ad-hoc requests and cases.
+     
+     - role: Private Mathematics and Statistics Tutor
+       time : 2016 - Present
+       details: |
+       I tutor up to 2nd year mathematic and 3rd year statistics.
 
           
 projects:
@@ -81,7 +86,7 @@ projects:
 
       - title: MySQL Database eCommerce queries
         link: "https://github.com/10ken/ecommer-MySQL-db"
-        tagline: "SQL queries that sorted and grouped ecommerce sales by countries and customers by purchases. A variety of SQL commends and functions were used in the process exploring the imported data, including SELECT, GROUP BY, ORDER BY, LEFT JOIN, AVG(), and SUM()."
+        tagline: "SQL queries that summarized ecommerce sales data by country andcustomers. SQL commands and functions used include SELECT, GROUP BY, ORDER BY, LEFT JOIN, AVG(), and SUM()."
         
       - title: Data Analyst EDA
         link: "https://github.com/10ken/Data-Analyst-EDA/blob/master/da-postings-visualizations.ipynb"
