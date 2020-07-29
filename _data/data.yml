@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -46,7 +46,7 @@ career-profile:
     title: Career Profile
     summary: |
       I hold an HBSc in Mathematics and Statistics from the University of Toronto, a Big Data Certificate from York University,
-        and a SAS BAse Programmer Certificate from SAS Institute.
+        and a SAS Base Programmer Certificate from SAS Institute.
       I am interested in the applications of statistics, machine learning, and performing data analysis to produce data driven solutions.
       I am proficient in programming in Python and R and to make queries with SAS and SQL. 
       I have a strong understanding of data mining techniques in classification, regression, and deep learning.
