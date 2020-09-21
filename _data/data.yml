@@ -60,11 +60,11 @@ education:
 
 experiences: 
   - 
-    company: "CIBC"
-    details: |
+#    company: "CIBC"
+#    details: |
 #        
-    role: "Validation Specialist"
-    time: "2020 - Present"
+#    role: "Validation Specialist"
+#    time: "2020 - Present"
   - 
     company: "CIBC"
     details: |
